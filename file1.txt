@@ -7,3 +7,4 @@ Change settings 1
 
 
 Feature-123 - add
+Feature-123 - Fix-Bug #1
